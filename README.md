@@ -1,1 +1,1 @@
-wip, 
+![Github Views](https://views.igorkowalczyk.dev/api/badge/promiseduo?label=new+players&labelColor=ffffff&color=702a2a) wip, 
